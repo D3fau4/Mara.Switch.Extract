@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mara.switch": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Users\\raul2\\Documents\\GitHub\\.switch\\prod.keys \"C:\\Users\\raul2\\Desktop\\ACE\\Phoenix Wright Ace Attorney Trilogy[0100CB000A142000][US][v0].nsp\" \"C:\\Users\\raul2\\Desktop\\ACE\\Phoenix Wright Ace Attorney Trilogy[0100CB000A142800][v131072].nsp\" 0100CB000A142000"
+    }
+  }
+}

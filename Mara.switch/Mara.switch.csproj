@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Mara.switch.extract</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LibHac">
+      <HintPath>D:\Users\raul2\Documents\GitHub\Mara\Mara.Lib\Dll\LibHac.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
